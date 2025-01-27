@@ -5,7 +5,8 @@ export default plugin(
   () => null,
   // config
   {
+    prefix: "tw-",
     darkMode: "class",
-    safelist: ["bg-red-400", "bg-blue-400"],
+    safelist: ["tw-bg-red-400", "tw-bg-blue-400"],
   }
 );
