@@ -12,7 +12,7 @@ export default function App() {
         toggle color
       </button>
       <h1>color: bg-{color}-400</h1>
-      <div className={`w-full h-40 bg-${color}-400 `}>content here</div>
+      <div className={`w-full h-40 bg-${color}-400`}>content here</div>
     </div>
   );
 }
