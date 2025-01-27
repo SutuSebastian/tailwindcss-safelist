@@ -1,7 +1,7 @@
-const safelistPlugin = require("./safelist-plugin.cjs");
+import safelistPlugin from "./safelist-plugin";
 
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+export default {
   darkMode: "class",
   plugins: [safelistPlugin],
 };
