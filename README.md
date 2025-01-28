@@ -3,7 +3,7 @@
 | Configuration         | Status |
 | --------------------- | ------ |
 | v3                    | ✅     |
-| v3 + postcss          | ✅     |
+| v3 + prefix           | ✅     |
 | v4 + vite             | ❌     |
 | v4 + vite + prefix    | ❌     |
 | v4 + postcss          | ❌     |
