@@ -6,5 +6,5 @@
 | v3 + postcss          | ✅     |
 | v4 + vite             | ❌     |
 | v4 + vite + prefix    | ❌     |
-| v4 + postcss          | ✅     |
-| v4 + postcss + prefix | ✅     |
+| v4 + postcss          | ❌     |
+| v4 + postcss + prefix | ❌     |
